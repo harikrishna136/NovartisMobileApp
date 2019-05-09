@@ -1,0 +1,44 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc170d2641a244f58e4bd17baadbdd13",
+    "_src_": "close_btn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "ispercent": true,
+        "platform": "android",
+        "templateType": "popups",
+        "topLevelBox": false
+    },
+    "id": "Image0cacefb0f403e4a",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "a6cdeb4ee03f477b864c3c18364f877e",
+    "name": "kony.ui.Image2",
+    "parent": "vbxcross",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

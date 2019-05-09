@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        2,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s43656d40cc04ab0931a687e32ccd83a",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "id": "lcal",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jaf16d9f19dd404d97359591cb1110b2",
+    "margininpixel": false,
+    "name": "kony.ui.Line",
+    "parent": "vbxcal",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Line"
+}

@@ -1,0 +1,42 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        10,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s9b47f581ade47e58863ca0f91a4608b",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "VBox0b3017d46830b42",
+        "vbxcross"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "HBox0b7e7736bc0534b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ec3b60ea63e64754803b6e56ea94c91d",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "PopupRegistration",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "HBox",
+    "widgetalignment": 1
+}

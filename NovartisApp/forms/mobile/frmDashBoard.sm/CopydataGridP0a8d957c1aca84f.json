@@ -1,0 +1,124 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "col1": "Area",
+            "col2": "Ireland"
+        },
+        {
+            "col1": "Population",
+            "col2": "10000000077"
+        },
+        {
+            "col1": "Largest City",
+            "col2": "Ire"
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "cellBorder": "4px solid #5C5C5C",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 4,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Col 1",
+            "columnHeaderType": "text",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "e40a4f0728704efb9fe00d8fa0d47b43"
+        },
+        {
+            "columnContentAlignment": 4,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Col 2",
+            "columnHeaderType": "text",
+            "columnID": "col2",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 34,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "gc26be636dbe4929ae2cdef9bb89920f"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2"
+    ],
+    "columntype": [
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmDashBoard",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": "21",
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "s3568e7680e841cf962ff8ad60469631",
+    "id": "CopydataGridP0a8d957c1aca84f",
+    "info": null,
+    "iscustomlayout": false,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "a22af0c6d9354c71acfd626d7706dc98",
+    "name": "kony.ui.DataGrid",
+    "parent": "FlexScrollContainer0f7928b24b45142",
+    "pf": "frmDashBoard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rowalternateskin": "s8a93a79e6894d48a98d128f9e9d3ea3",
+    "rowcount": 3,
+    "rowfocusskin": "se3d5bb75dec481dbee93a8df05c5a03",
+    "rownormalskin": "s30638776e614d5f8e6f173ecfea9be7",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": false,
+    "wType": "DataGrid",
+    "zindex": 1
+}

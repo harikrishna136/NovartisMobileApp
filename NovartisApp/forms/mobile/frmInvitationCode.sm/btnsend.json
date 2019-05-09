@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s778834a3ef94724a06c1aa529449b0f",
+    "_text_": "Send",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd25ea8e1523416abb71229c385a8a05",
+    "id": "btnsend",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i7cfeb871f164c848c459d5a06efb6d6",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0d8b91bb2295548",
+    "pf": "frmInvitationCode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "send",
+    "wType": "Button",
+    "zindex": 1
+}

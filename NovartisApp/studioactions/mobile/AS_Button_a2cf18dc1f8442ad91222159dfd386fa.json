@@ -1,0 +1,18 @@
+{
+    "AS_Button_a2cf18dc1f8442ad91222159dfd386fa": {
+        "id": "AS_Button_a2cf18dc1f8442ad91222159dfd386fa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

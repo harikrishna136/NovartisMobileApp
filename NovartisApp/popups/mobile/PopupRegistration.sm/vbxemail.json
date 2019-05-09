@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        12,
+        0,
+        12,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s3caca7a4d834aeab117adbfad2f840e",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "txtemail",
+        "lemail"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "vbxemail",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f5a61be82335490892098ac792bd5b87",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hbxemail",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "VBox",
+    "widgetalignment": 1
+}

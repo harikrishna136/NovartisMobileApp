@@ -1,0 +1,31 @@
+{
+    "AS_TextField_f0ea23cd1ea1496692748f7a4862c139": {
+        "id": "AS_TextField_f0ea23cd1ea1496692748f7a4862c139",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hb7f5974849d4a65996a39c68098a72c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ga6b18a8fe3b43228306d62879867a24",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchInvCode",
+            "display": "searchInvCode",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

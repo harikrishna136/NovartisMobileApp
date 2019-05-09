@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf382c55a9cd4cdea8ec2f9bb0e07c97",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "72%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd25ea8e1523416abb71229c385a8a05"
+    },
+    "displaytext": true,
+    "id": "btnNewUser",
+    "ide_onClick": "AS_Button_b6e9100e4f0949a18c46179c0a95f190",
+    "ide_onTouchEnd": "AS_Button_b77018cc125547eeb83c88c6be80ead1",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hae7e5c2265a45808d59ed537857a390",
+    "name": "kony.ui.Button",
+    "parent": "flxRoot",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "newUser",
+    "wType": "Button",
+    "zindex": 1
+}

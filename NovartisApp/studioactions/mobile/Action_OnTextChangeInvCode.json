@@ -1,0 +1,32 @@
+{
+    "AS_TextField_daca81d5e2bb4522a1ec8a5a56bbd70f": {
+        "id": "AS_TextField_daca81d5e2bb4522a1ec8a5a56bbd70f",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_OnTextChangeInvCode",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hb7f5974849d4a65996a39c68098a72c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i542e0dc93b94890a25c1ca6ca7662e6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchInvCode",
+            "display": "searchInvCode",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

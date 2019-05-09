@@ -1,0 +1,25 @@
+{
+    "AS_VBox_a0de32de17bc48978d4f59074935f74e": {
+        "id": "AS_VBox_a0de32de17bc48978d4f59074935f74e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "PopupRegistration",
+            "type": "popups",
+            "platform": "",
+            "KUID": "b4942ab3c0604c12a9303e0eb7f3f977"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "DISMISS_POPUP___a2c42fa1d3e147e59d8e5278c3b457e1",
+            "type": "DISMISS_POPUP",
+            "popupId": "PopupRegistration",
+            "popupKUID": "b4942ab3c0604c12a9303e0eb7f3f977",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

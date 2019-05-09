@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf833724cc474d9ebbdcb755ce583bbf",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "HBox0b7e7736bc0534b",
+        "Image0dc06fc4957b84a",
+        "lblregistartion",
+        "hbxusername",
+        "hbxemail",
+        "hbxcalendar",
+        "hbxcountry",
+        "HBox0affa133028c64b"
+    ],
+    "containerheight": 100,
+    "containerheightreference": 3,
+    "containerweight": 100,
+    "currentLocale": "default",
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "GalaxyS8Plus",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "PopupRegistration",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "iphone": {
+        "psp": {
+            "bounces": false
+        }
+    },
+    "iscustomlayout": false,
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "b4942ab3c0604c12a9303e0eb7f3f977",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "android",
+    "prevDevice": "iPhoneX",
+    "prevPlatform": "iphone",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS8Plus",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "wType": "Popup"
+}

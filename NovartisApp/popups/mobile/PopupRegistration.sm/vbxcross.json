@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s3caca7a4d834aeab117adbfad2f840e",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Image0cacefb0f403e4a"
+    ],
+    "containerweight": 16,
+    "contextmenu": null,
+    "donotUpdateContainerWeight": false,
+    "id": "vbxcross",
+    "ide_onClick": "AS_VBox_a0de32de17bc48978d4f59074935f74e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ead54897fef848ad92823726ad5646c9",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "HBox0b7e7736bc0534b",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "VBox",
+    "widgetalignment": 1
+}

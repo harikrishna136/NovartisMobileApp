@@ -1,0 +1,34 @@
+{
+    "AS_Image_c7993e1f17c84e46b0a8f768fc548de4": {
+        "id": "AS_Image_c7993e1f17c84e46b0a8f768fc548de4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c7ddade118354ce3b99bb3e4fc267d6a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f9fa486b721b44238bfd8cba2c634e96",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickToggle",
+            "display": "onClickToggle",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

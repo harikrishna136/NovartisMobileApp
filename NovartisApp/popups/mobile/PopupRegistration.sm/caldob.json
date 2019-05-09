@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calender.png",
+    "_data_": null,
+    "_date_": [
+        null,
+        null,
+        null
+    ],
+    "_margin_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Date of Birth",
+    "_skin_": "s163a81704a44da8bbfd41d9b54a491e",
+    "advview": "default",
+    "calendaricon": "calender.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        null,
+        null,
+        null
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": null,
+    "daytextalignmentincell": 5,
+    "entereddate": null,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "caldob",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f721b15d56534ddd8020a0e436bc2dd5",
+    "luadate": [
+        null,
+        null,
+        null
+    ],
+    "margininpixel": false,
+    "minutes": 0,
+    "month": null,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "paddinginpixel": false,
+    "pagedate": "/2019",
+    "parent": "vbxcal",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2019",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 4,
+    "year": null
+}

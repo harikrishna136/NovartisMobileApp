@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select Language",
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s5d6d4ede8264c969f1249dfddefb422",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "76%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s5d6d4ede8264c969f1249dfddefb422"
+        },
+        "viewType": 4
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 1,
+    "disabledSkins": {
+        "focusSkin": "s2aa0b0cbb4f47b8a2c1279fc37ed7ea"
+    },
+    "dropdownimage": "arrow_down1.png",
+    "groupcells": false,
+    "id": "listBoxLang",
+    "ide_onSelection": "AS_ListBox_f4e012aa29004fc8845eb5f58ccdc456",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ee918383cdc1445f937ea46303088a55",
+    "masterdata": [
+        [
+            "German",
+            "German"
+        ],
+        [
+            "English",
+            "English"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxswitchlang",
+    "pf": "frmLaunch",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

@@ -1,0 +1,35 @@
+{
+    "AS_Image_db2098790f724ccfb4b1cc4cf53cc89c": {
+        "id": "AS_Image_db2098790f724ccfb4b1cc4cf53cc89c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hb7f5974849d4a65996a39c68098a72c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b427cff9e37c4bf18e1d65ad98d22e35",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLaunch",
+            "formKUID": "d428a4be43184684906e201464d47033",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

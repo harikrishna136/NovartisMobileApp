@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_i14ba2621ffe48dd8132ff286dc6df92": {
+        "id": "AS_FlexContainer_i14ba2621ffe48dd8132ff286dc6df92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c7ddade118354ce3b99bb3e4fc267d6a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "DISPLAY_POPUP___e46b9921018d4f46b60746a54f9025a6",
+            "type": "DISPLAY_POPUP",
+            "popupId": "PopupRegistration",
+            "popupKUID": "b4942ab3c0604c12a9303e0eb7f3f977",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf382c55a9cd4cdea8ec2f9bb0e07c97",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sd25ea8e1523416abb71229c385a8a05"
+    },
+    "displaytext": true,
+    "id": "btnLogin",
+    "ide_onClick": "AS_Button_ac1199e086cd41f1af9085bd4827a353",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hd003eea81a64d08a78527834a0c72b6",
+    "name": "kony.ui.Button",
+    "parent": "flxMain",
+    "pf": "frmLaunch",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "proceed",
+    "wType": "Button",
+    "zindex": 1
+}

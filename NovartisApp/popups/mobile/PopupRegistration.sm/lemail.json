@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s43656d40cc04ab0931a687e32ccd83a",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "id": "lemail",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ida1dcfc70ac487ab223ffabe0996946",
+    "margininpixel": false,
+    "name": "kony.ui.Line",
+    "parent": "vbxemail",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Line"
+}

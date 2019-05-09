@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s42cfbdeb2a0422db3bf46d6c5d4d9f4",
+    "_text_": "I have read and agree with the terms and conditions.",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "rcjtxttc",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f16c3b9750fe47cfa6a58327370f4edc",
+    "linkskin": "sdc50227bbb14e3fb826187aaf9d40bc",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0db3398bf6de647",
+    "pf": "frmInvitationCode",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "tandc",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

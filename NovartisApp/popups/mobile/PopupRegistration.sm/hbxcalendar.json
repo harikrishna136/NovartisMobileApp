@@ -1,0 +1,41 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        8,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s9b47f581ade47e58863ca0f91a4608b",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vbxcal"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hbxcalendar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bdb85242ae374e2b87ec919329900fd3",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "PopupRegistration",
+    "pf": "PopupRegistration",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "HBox",
+    "widgetalignment": 1
+}

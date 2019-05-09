@@ -1,0 +1,21 @@
+{
+    "AS_ListBox_f4e012aa29004fc8845eb5f58ccdc456": {
+        "id": "AS_ListBox_f4e012aa29004fc8845eb5f58ccdc456",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onSelection_d53bfff69abe4cc8b87fe80a8238d0e9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSelectionLang",
+            "display": "onSelectionLang",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
